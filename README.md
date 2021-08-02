@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darodawc
-- 👀 I’m interested in developing solutions for all kinf of problems
+- 👀 I’m interested in developing solutions for all kind of problems
 - 🌱 I’m currently learning BaseX, Xpath, Xquery
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... try to send a e-mail
